@@ -1,0 +1,14 @@
+{
+  "name": "lex-duana",
+  "version": "1.0.0",
+  "description": "African customs law in your AI tool: customs codes, common external tariffs, the Harmonized System and WCO valuation instruments, with sourced answers. Droit douanier africain dans votre outil IA : codes des douanes, tarifs extérieurs communs, Système harmonisé et instruments d'évaluation de l'OMD, avec des réponses sourcées.",
+  "author": {
+    "name": "Lex Duana",
+    "url": "https://lexduana.zakarius.com"
+  },
+  "homepage": "https://lexduana.zakarius.com/en/outils-ia/",
+  "repository": "https://github.com/Smart-DUANA/lex-duana-ai",
+  "privacyPolicyUrl": "https://lexduana.zakarius.com/fr/confidentialite/",
+  "license": "MIT",
+  "keywords": ["customs", "douane", "tariff", "harmonized-system", "africa", "mcp", "legal"]
+}

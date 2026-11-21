@@ -1,0 +1,11 @@
+interface:
+  display_name: "Lex Duana"
+  short_description: "African customs law: codes, tariffs, HS and valuation instruments, with sourced answers"
+  default_prompt: "Use the Lex Duana tools to find the customs text that answers my question, quote it and cite the document, the article or tariff code, and the version."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "lex-duana"
+      description: "Lex Duana server: read-only lex_* tools. Sign in with a Lex Duana account; a free account is enough."
+      transport: "streamable_http"
+      url: "https://lex-douane-backend.zakarius.com/mcp"

@@ -1,0 +1,15 @@
+{
+  "name": "lex-duana",
+  "description": "African customs law in your AI tool: customs codes, common external tariffs, the Harmonized System and WCO valuation instruments, with sourced answers. Droit douanier africain dans votre outil IA : codes des douanes, tarifs extérieurs communs, Système harmonisé et instruments d'évaluation de l'OMD, avec des réponses sourcées.",
+  "owner": {
+    "name": "Lex Duana"
+  },
+  "plugins": [
+    {
+      "name": "lex-duana",
+      "source": "./",
+      "description": "African customs law in your AI tool: customs codes, common external tariffs, the Harmonized System and WCO valuation instruments, with sourced answers. Droit douanier africain dans votre outil IA : codes des douanes, tarifs extérieurs communs, Système harmonisé et instruments d'évaluation de l'OMD, avec des réponses sourcées.",
+      "version": "1.0.0"
+    }
+  ]
+}
