@@ -2,7 +2,7 @@
   "mcpServers": {
     "lex-duana": {
       "type": "http",
-      "url": "https://lex-douane-backend.zakarius.com/mcp"
+      "url": "https://api.lexduana.com/mcp"
     }
   }
 }

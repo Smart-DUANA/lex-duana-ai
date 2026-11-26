@@ -21,19 +21,19 @@ Pick the form your AI tool accepts.
    claude plugin install lex-duana --marketplace Smart-DUANA/lex-duana-ai
    ```
 
-2. **Skill only**, as an archive to upload or unzip into your tool's skills folder: [lex-duana-skill-1.0.0.zip](https://github.com/Smart-DUANA/lex-duana-ai/releases/download/v1.0.0/lex-duana-skill-1.0.0.zip). Then add the server address below as a connector.
+2. **Skill only**, as an archive to upload or unzip into your tool's skills folder: [lex-duana-skill-1.1.0.zip](https://github.com/Smart-DUANA/lex-duana-ai/releases/download/v1.1.0/lex-duana-skill-1.1.0.zip). Then add the server address below as a connector.
 
 3. **Server address only**, for tools that accept a remote MCP server but no skill:
 
    ```
-   https://lex-douane-backend.zakarius.com/mcp
+   https://api.lexduana.com/mcp
    ```
 
 ### Sign in
 
 The server requires a Lex Duana account; a free account is enough. On first use your AI tool opens a sign-in page in your browser. The daily limits depend on your plan and are shown in the Lex Duana app, under "Connected AI tools", where you can also disconnect a tool.
 
-Step-by-step guides: <https://lexduana.zakarius.com/en/outils-ia/> · [Privacy policy](https://lexduana.zakarius.com/fr/confidentialite/) (in French)
+Step-by-step guides: <https://lexduana.com/en/outils-ia/> · [Privacy policy](https://lexduana.com/fr/confidentialite/) (in French)
 
 ### What is inside
 
@@ -73,19 +73,19 @@ Choisissez la forme que votre outil IA accepte.
    claude plugin install lex-duana --marketplace Smart-DUANA/lex-duana-ai
    ```
 
-2. **Skill seul**, en archive à téléverser ou à décompresser dans le dossier des skills de votre outil : [lex-duana-skill-1.0.0.zip](https://github.com/Smart-DUANA/lex-duana-ai/releases/download/v1.0.0/lex-duana-skill-1.0.0.zip). Ajoutez ensuite l'adresse du serveur ci-dessous comme connecteur.
+2. **Skill seul**, en archive à téléverser ou à décompresser dans le dossier des skills de votre outil : [lex-duana-skill-1.1.0.zip](https://github.com/Smart-DUANA/lex-duana-ai/releases/download/v1.1.0/lex-duana-skill-1.1.0.zip). Ajoutez ensuite l'adresse du serveur ci-dessous comme connecteur.
 
 3. **Adresse du serveur seule**, pour les outils qui acceptent un serveur MCP distant mais pas de skill :
 
    ```
-   https://lex-douane-backend.zakarius.com/mcp
+   https://api.lexduana.com/mcp
    ```
 
 ### Se connecter
 
 Le serveur exige un compte Lex Duana ; un compte gratuit suffit. Au premier usage, votre outil IA ouvre une page de connexion dans votre navigateur. Les limites quotidiennes dépendent de votre offre et s'affichent dans l'application Lex Duana, écran « Outils IA connectés », où vous pouvez aussi déconnecter un outil.
 
-Guides pas à pas : <https://lexduana.zakarius.com/fr/outils-ia/> · [Politique de confidentialité](https://lexduana.zakarius.com/fr/confidentialite/)
+Guides pas à pas : <https://lexduana.com/fr/outils-ia/> · [Politique de confidentialité](https://lexduana.com/fr/confidentialite/)
 
 ### Contenu
 

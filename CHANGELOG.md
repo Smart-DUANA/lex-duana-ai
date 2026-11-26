@@ -2,6 +2,10 @@
 
 All notable changes to the Lex Duana plugin are listed here. Versions follow semantic versioning; the version of the manifest, of this file and of the skill archive are always the same.
 
+## 1.1.0
+
+- The connector, the guides and the privacy policy now use the `lexduana.com` domain.
+
 ## 1.0.0
 
 - First public version.
